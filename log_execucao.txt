@@ -1,0 +1,3802 @@
+[03/11/2026 17:19:16] 
+🚀 A inicializar o Google Chrome...
+[03/11/2026 17:19:16] 📁 Pasta do app: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)
+[03/11/2026 17:19:16] 🧪 TEMP: C:\Users\enzo\AppData\Local\Temp
+[03/11/2026 17:19:20] 🔎 Tentando perfil do Chrome: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao
+[03/11/2026 17:19:24] 🧩 Usando ChromeDriver embutido: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\chromedriver.exe
+[03/11/2026 17:19:27] ⚠️ Tentativa 1 com o perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao' falhou: Message: session not created
+
+--- 03/11/2026 17:19:27 ---
+FALHA no perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao'
+Message: session not created
+from unknown error: cannot create temp dir for unpacking extensions; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76cd426d3]
+	(No symbol) [0x7ff76cd58342]
+	(No symbol) [0x7ff76d53c07d]
+	(No symbol) [0x7ff76d56a6ca]
+	(No symbol) [0x7ff76d56a306]
+	(No symbol) [0x7ff76cd5b969]
+	(No symbol) [0x7ff76cd5cca3]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76cedd1d4]
+	(No symbol) [0x7ff76cedd364]
+	(No symbol) [0x7ff76cec644c]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:19:31] 🧩 Usando ChromeDriver embutido: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\chromedriver.exe
+[03/11/2026 17:19:33] ⚠️ Tentativa 2 com o perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao' falhou: Message: session not created
+
+--- 03/11/2026 17:19:33 ---
+FALHA no perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao'
+Message: session not created
+from unknown error: cannot create temp dir for unpacking extensions; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76cd426d3]
+	(No symbol) [0x7ff76cd58342]
+	(No symbol) [0x7ff76d53c07d]
+	(No symbol) [0x7ff76d56a6ca]
+	(No symbol) [0x7ff76d56a306]
+	(No symbol) [0x7ff76cd5b969]
+	(No symbol) [0x7ff76cd5cca3]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76cedd1d4]
+	(No symbol) [0x7ff76cedd364]
+	(No symbol) [0x7ff76cec644c]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:19:38] 🔎 Tentando perfil do Chrome: C:\Users\enzo\AppData\Local\PerfilChromeAutomacao
+[03/11/2026 17:19:38] ⚠️ Não foi possível preparar a pasta: [WinError 5] Access is denied: 'C:\\Users\\enzo\\AppData\\Local\\PerfilChromeAutomacao'
+[03/11/2026 17:19:38] 🔎 Tentando perfil do Chrome: C:\PerfilChromeAutomacao
+[03/11/2026 17:19:42] ⚠️ Esta pasta está travada por outro Chrome. Pulando para o próximo perfil...
+[03/11/2026 17:19:42] 🔎 Tentando perfil do Chrome: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\perfil_ig_20261103_171920_2636
+[03/11/2026 17:19:46] 🧩 Usando ChromeDriver embutido: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\chromedriver.exe
+[03/11/2026 17:19:49] ⚠️ Tentativa 1 com o perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\perfil_ig_20261103_171920_2636' falhou: Message: session not created
+
+--- 03/11/2026 17:19:49 ---
+FALHA no perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\perfil_ig_20261103_171920_2636'
+Message: session not created
+from unknown error: cannot create temp dir for unpacking extensions; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76cd426d3]
+	(No symbol) [0x7ff76cd58342]
+	(No symbol) [0x7ff76d53c07d]
+	(No symbol) [0x7ff76d56a6ca]
+	(No symbol) [0x7ff76d56a306]
+	(No symbol) [0x7ff76cd5b969]
+	(No symbol) [0x7ff76cd5cca3]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76cedd1d4]
+	(No symbol) [0x7ff76cedd364]
+	(No symbol) [0x7ff76cec644c]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:19:53] 🧩 Usando ChromeDriver embutido: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\chromedriver.exe
+[03/11/2026 17:19:55] ⚠️ Tentativa 2 com o perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\perfil_ig_20261103_171920_2636' falhou: Message: session not created
+
+--- 03/11/2026 17:19:55 ---
+FALHA no perfil 'C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\perfil_ig_20261103_171920_2636'
+Message: session not created
+from unknown error: cannot create temp dir for unpacking extensions; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76cd426d3]
+	(No symbol) [0x7ff76cd58342]
+	(No symbol) [0x7ff76d53c07d]
+	(No symbol) [0x7ff76d56a6ca]
+	(No symbol) [0x7ff76d56a306]
+	(No symbol) [0x7ff76cd5b969]
+	(No symbol) [0x7ff76cd5cca3]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76cedd1d4]
+	(No symbol) [0x7ff76cedd364]
+	(No symbol) [0x7ff76cec644c]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:19:59] ❌ Não foi possível iniciar o Chrome. Último erro: Message: session not created
+from unknown error: cannot create temp dir for unpacking extensions; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76cd426d3]
+	(No symbol) [0x7ff76cd58342]
+	(No symbol) [0x7ff76d53c07d]
+	(No symbol) [0x7ff76d56a6ca]
+	(No symbol) [0x7ff76d56a306]
+	(No symbol) [0x7ff76cd5b969]
+	(No symbol) [0x7ff76cd5cca3]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76cedd1d4]
+	(No symbol) [0x7ff76cedd364]
+	(No symbol) [0x7ff76cec644c]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+
+--- 03/11/2026 17:19:59 ---
+FALHA FINAL
+Message: session not created
+from unknown error: cannot create temp dir for unpacking extensions; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76cd426d3]
+	(No symbol) [0x7ff76cd58342]
+	(No symbol) [0x7ff76d53c07d]
+	(No symbol) [0x7ff76d56a6ca]
+	(No symbol) [0x7ff76d56a306]
+	(No symbol) [0x7ff76cd5b969]
+	(No symbol) [0x7ff76cd5cca3]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76cedd1d4]
+	(No symbol) [0x7ff76cedd364]
+	(No symbol) [0x7ff76cec644c]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:23:45] 
+🚀 A inicializar o Google Chrome...
+[03/11/2026 17:23:45] 📁 Pasta do app: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)
+[03/11/2026 17:23:45] 🧪 TEMP em uso: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\temp
+[03/11/2026 17:23:45] ⚠️ Solicitação de interrupção recebida...
+[03/11/2026 17:23:49] 🔎 Tentando perfil do Chrome: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao
+[03/11/2026 17:23:53] 🧩 Usando ChromeDriver embutido: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\chromedriver.exe
+[03/11/2026 17:23:54] ✅ Google Chrome aberto com sucesso! (perfil: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao)
+[03/11/2026 17:23:58] 📄 1049 perfis carregados do ficheiro.
+[03/11/2026 17:23:58] 🧠 Perfis já existentes (planilhas + memória): 0
+[03/11/2026 17:23:58] 🎯 Filtros ativos -> Seg: 40000 a 300000 | Views mín: 20000 | Dias: 30
+[03/11/2026 17:23:58] 🏪 Descarte de marcas/lojas: ATIVADO (39 palavras-chave)
+[03/11/2026 17:23:58] 🇧🇷 Apenas perfis do Brasil: ATIVADO (análise por bio e legendas)
+[03/11/2026 17:23:58] ⏹ Automação interrompida pelo utilizador.
+[03/11/2026 17:23:58] 
+⚠ Nenhum perfil novo atendeu aos requisitos ou todos já estavam na memória.
+[03/11/2026 17:26:23] 
+🚀 A inicializar o Google Chrome...
+[03/11/2026 17:26:23] 📁 Pasta do app: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)
+[03/11/2026 17:26:23] 🧪 TEMP em uso: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\temp
+[03/11/2026 17:26:27] 🔎 Tentando perfil do Chrome: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao
+[03/11/2026 17:26:31] 🧩 Usando ChromeDriver embutido: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\chromedriver.exe
+[03/11/2026 17:26:33] ✅ Google Chrome aberto com sucesso! (perfil: C:\Users\enzo\Downloads\PARA-A-MULHER-MAIS-LINDA-main\PARA-A-MULHER-MAIS-LINDA-main\PARA A MULHER MAIS LINDA DO MUNDO (v2)\PerfilChromeAutomacao)
+[03/11/2026 17:26:39] 📄 1049 perfis carregados do ficheiro.
+[03/11/2026 17:26:39] 🧠 Perfis já existentes (planilhas + memória): 2764
+[03/11/2026 17:26:39] 🎯 Filtros ativos -> Seg: 40000 a 300000 | Views mín: 20000 | Dias: 30
+[03/11/2026 17:26:39] 🏪 Descarte de marcas/lojas: ATIVADO (39 palavras-chave)
+[03/11/2026 17:26:39] 🇧🇷 Apenas perfis do Brasil: ATIVADO (análise por bio e legendas)
+[03/11/2026 17:26:40] 
+[1/1049] A analisar @rockinrio...
+[03/11/2026 17:26:45]   -> @rockinrio descartado (Erro de leitura).
+[03/11/2026 17:26:48] 
+[2/1049] ⏭️ @raphaella já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:26:48] 
+[3/1049] A analisar @cellbitos...
+[03/11/2026 17:26:48] ⚠️ Erro ao processar @cellbitos: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:26:52] 
+[4/1049] A analisar @claramilvolts...
+[03/11/2026 17:26:52] ⚠️ Erro ao processar @claramilvolts: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:26:55] 
+[5/1049] A analisar @blackinfluence...
+[03/11/2026 17:26:55] ⚠️ Erro ao processar @blackinfluence: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:26:58] 
+[6/1049] A analisar @piangers...
+[03/11/2026 17:26:58] ⚠️ Erro ao processar @piangers: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:01] 
+[7/1049] A analisar @maniadevinho...
+[03/11/2026 17:27:01] ⚠️ Erro ao processar @maniadevinho: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:05] 
+[8/1049] A analisar @jwallauer...
+[03/11/2026 17:27:05] ⚠️ Erro ao processar @jwallauer: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:07] 
+[9/1049] A analisar @brendaolivieri...
+[03/11/2026 17:27:07] ⚠️ Erro ao processar @brendaolivieri: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:09] 
+[10/1049] A analisar @eusoufabao...
+[03/11/2026 17:27:09] ⚠️ Erro ao processar @eusoufabao: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:13] 
+[11/1049] A analisar @manoelrafaski...
+[03/11/2026 17:27:13] ⚠️ Erro ao processar @manoelrafaski: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:16] 
+[12/1049] A analisar @cahnogueira7...
+[03/11/2026 17:27:16] ⚠️ Erro ao processar @cahnogueira7: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:19] 
+[13/1049] A analisar @juliane_vezzani...
+[03/11/2026 17:27:19] ⚠️ Erro ao processar @juliane_vezzani: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:23] 
+[14/1049] A analisar @luara...
+[03/11/2026 17:27:23] ⚠️ Erro ao processar @luara: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:25] 
+[15/1049] A analisar @rafalotto...
+[03/11/2026 17:27:25] ⚠️ Erro ao processar @rafalotto: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:28] 
+[16/1049] A analisar @professorbaroni...
+[03/11/2026 17:27:28] ⚠️ Erro ao processar @professorbaroni: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:31] 
+[17/1049] A analisar @benzruel...
+[03/11/2026 17:27:31] ⚠️ Erro ao processar @benzruel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:34] 
+[18/1049] A analisar @grendenekids...
+[03/11/2026 17:27:34] ⚠️ Erro ao processar @grendenekids: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:37] 
+[19/1049] A analisar @nayaraandrade._...
+[03/11/2026 17:27:37] ⚠️ Erro ao processar @nayaraandrade._: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:40] 
+[20/1049] ⏭️ @velhoteoficial já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:27:40] 
+[21/1049] A analisar @marlonsalatiel...
+[03/11/2026 17:27:40] ⚠️ Erro ao processar @marlonsalatiel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:44] 
+[22/1049] A analisar @guadaherrera5...
+[03/11/2026 17:27:44] ⚠️ Erro ao processar @guadaherrera5: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:48] 
+[23/1049] A analisar @joao_cortes...
+[03/11/2026 17:27:48] ⚠️ Erro ao processar @joao_cortes: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:50] 
+[24/1049] A analisar @milianjos...
+[03/11/2026 17:27:50] ⚠️ Erro ao processar @milianjos: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:52] 
+[25/1049] ⏭️ @mariaeugeniarluz já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:27:53] 
+[26/1049] A analisar @tinacalamba...
+[03/11/2026 17:27:53] ⚠️ Erro ao processar @tinacalamba: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:56] 
+[27/1049] A analisar @jehalencaar...
+[03/11/2026 17:27:57] ⚠️ Erro ao processar @jehalencaar: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:27:59] 
+[28/1049] A analisar @spotifybrasil...
+[03/11/2026 17:27:59] ⚠️ Erro ao processar @spotifybrasil: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:03] 
+[29/1049] A analisar @samydanaoficial...
+[03/11/2026 17:28:03] ⚠️ Erro ao processar @samydanaoficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:07] 
+[30/1049] A analisar @provocattocacau...
+[03/11/2026 17:28:07] ⚠️ Erro ao processar @provocattocacau: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:09] 
+[31/1049] ⏭️ @gabiverdelimao já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:28:10] 
+[32/1049] A analisar @casaltech_...
+[03/11/2026 17:28:10] ⚠️ Erro ao processar @casaltech_: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:14] 
+[33/1049] A analisar @mmurta...
+[03/11/2026 17:28:14] ⚠️ Erro ao processar @mmurta: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:17] 
+[34/1049] A analisar @adnews.br...
+[03/11/2026 17:28:17] ⚠️ Erro ao processar @adnews.br: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:21] 
+[35/1049] A analisar @maccosmeticsbrasil...
+[03/11/2026 17:28:21] ⚠️ Erro ao processar @maccosmeticsbrasil: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:25] 
+[36/1049] A analisar @headsahead...
+[03/11/2026 17:28:25] ⚠️ Erro ao processar @headsahead: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:28] 
+[37/1049] ⏭️ @joerlanvieira já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:28:28] 
+[38/1049] A analisar @luisasonza...
+[03/11/2026 17:28:28] ⚠️ Erro ao processar @luisasonza: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:31] 
+[39/1049] A analisar @wadrianhonorato...
+[03/11/2026 17:28:31] ⚠️ Erro ao processar @wadrianhonorato: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:34] 
+[40/1049] A analisar @davicartaxo...
+[03/11/2026 17:28:34] ⚠️ Erro ao processar @davicartaxo: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:36] 
+[41/1049] A analisar @julianathome...
+[03/11/2026 17:28:36] ⚠️ Erro ao processar @julianathome: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:40] 
+[42/1049] ⏭️ @emilioplus já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:28:40] 
+[43/1049] A analisar @marcopigossi...
+[03/11/2026 17:28:40] ⚠️ Erro ao processar @marcopigossi: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:43] 
+[44/1049] A analisar @instayoupix...
+[03/11/2026 17:28:43] ⚠️ Erro ao processar @instayoupix: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:45] 
+[45/1049] A analisar @jadeseba...
+[03/11/2026 17:28:46] ⚠️ Erro ao processar @jadeseba: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:49] 
+[46/1049] A analisar @isamarks...
+[03/11/2026 17:28:49] ⚠️ Erro ao processar @isamarks: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:52] 
+[47/1049] A analisar @andrecorga...
+[03/11/2026 17:28:52] ⚠️ Erro ao processar @andrecorga: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:54] 
+[48/1049] A analisar @lasvegastourvip...
+[03/11/2026 17:28:54] ⚠️ Erro ao processar @lasvegastourvip: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:28:57] 
+[49/1049] A analisar @thiaguinho...
+[03/11/2026 17:28:57] ⚠️ Erro ao processar @thiaguinho: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:01] 
+[50/1049] A analisar @leofaria...
+[03/11/2026 17:29:01] ⚠️ Erro ao processar @leofaria: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:04] 
+[51/1049] A analisar @jullymolinna...
+[03/11/2026 17:29:04] ⚠️ Erro ao processar @jullymolinna: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:07] 
+[52/1049] A analisar @sillaslopes...
+[03/11/2026 17:29:07] ⚠️ Erro ao processar @sillaslopes: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:09] 
+[53/1049] A analisar @buenoazevedo...
+[03/11/2026 17:29:09] ⚠️ Erro ao processar @buenoazevedo: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:12] 
+[54/1049] ⏭️ @madybeeong já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:29:12] 
+[55/1049] A analisar @buffetliamaraimprota...
+[03/11/2026 17:29:12] ⚠️ Erro ao processar @buffetliamaraimprota: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:15] 
+[56/1049] A analisar @_drielias...
+[03/11/2026 17:29:15] ⚠️ Erro ao processar @_drielias: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:17] 
+[57/1049] ⏭️ @giubeckers já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:29:17] 
+[58/1049] ⏭️ @xbananax já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:29:17] 
+[59/1049] ⏭️ @betaboechat já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:29:17] 
+[60/1049] A analisar @brenda...
+[03/11/2026 17:29:17] ⚠️ Erro ao processar @brenda: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:20] 
+[61/1049] A analisar @claramaia...
+[03/11/2026 17:29:20] ⚠️ Erro ao processar @claramaia: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:22] 
+[62/1049] A analisar @danichoma...
+[03/11/2026 17:29:22] ⚠️ Erro ao processar @danichoma: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:25] 
+[63/1049] A analisar @pedronazala...
+[03/11/2026 17:29:25] ⚠️ Erro ao processar @pedronazala: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:27] 
+[64/1049] ⏭️ @anainspira já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:29:27] 
+[65/1049] A analisar @eupelu...
+[03/11/2026 17:29:27] ⚠️ Erro ao processar @eupelu: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:29] 
+[66/1049] A analisar @majutrindade...
+[03/11/2026 17:29:29] ⚠️ Erro ao processar @majutrindade: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:32] 
+[67/1049] A analisar @apollooficial...
+[03/11/2026 17:29:33] ⚠️ Erro ao processar @apollooficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:35] 
+[68/1049] A analisar @sawaryjeans...
+[03/11/2026 17:29:35] ⚠️ Erro ao processar @sawaryjeans: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:39] 
+[69/1049] A analisar @fael...
+[03/11/2026 17:29:39] ⚠️ Erro ao processar @fael: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:43] 
+[70/1049] A analisar @aliceferrazdigital...
+[03/11/2026 17:29:43] ⚠️ Erro ao processar @aliceferrazdigital: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:46] 
+[71/1049] A analisar @eumaluviana...
+[03/11/2026 17:29:46] ⚠️ Erro ao processar @eumaluviana: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:49] 
+[72/1049] A analisar @isaias...
+[03/11/2026 17:29:49] ⚠️ Erro ao processar @isaias: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:51] 
+[73/1049] A analisar @matheussantannapatisserie...
+[03/11/2026 17:29:51] ⚠️ Erro ao processar @matheussantannapatisserie: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:54] 
+[74/1049] A analisar @jessicalardislau...
+[03/11/2026 17:29:54] ⚠️ Erro ao processar @jessicalardislau: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:29:58] 
+[75/1049] ⏭️ @luiza.alencarr já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:29:58] 
+[76/1049] A analisar @vinidalpino...
+[03/11/2026 17:29:58] ⚠️ Erro ao processar @vinidalpino: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:00] 
+[77/1049] A analisar @carlos...
+[03/11/2026 17:30:00] ⚠️ Erro ao processar @carlos: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:03] 
+[78/1049] A analisar @fabioporchat...
+[03/11/2026 17:30:03] ⚠️ Erro ao processar @fabioporchat: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:06] 
+[79/1049] A analisar @beatrizguarezi...
+[03/11/2026 17:30:06] ⚠️ Erro ao processar @beatrizguarezi: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:10] 
+[80/1049] A analisar @gabepetrovich...
+[03/11/2026 17:30:10] ⚠️ Erro ao processar @gabepetrovich: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:13] 
+[81/1049] A analisar @_ana.oliva...
+[03/11/2026 17:30:20] ⚠️ Erro ao processar @_ana.oliva: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:22] 
+[82/1049] A analisar @montecristo.joalheria...
+[03/11/2026 17:30:22] ⚠️ Erro ao processar @montecristo.joalheria: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:26] 
+[83/1049] ⏭️ @bibitatto já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:30:26] 
+[84/1049] A analisar @eudora...
+[03/11/2026 17:30:26] ⚠️ Erro ao processar @eudora: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:28] 
+[85/1049] A analisar @lifemixoficial...
+[03/11/2026 17:30:28] ⚠️ Erro ao processar @lifemixoficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:32] 
+[86/1049] A analisar @patricialagesoficial...
+[03/11/2026 17:30:32] ⚠️ Erro ao processar @patricialagesoficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:36] 
+[87/1049] A analisar @oilelemota...
+[03/11/2026 17:30:36] ⚠️ Erro ao processar @oilelemota: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:38] 
+[88/1049] A analisar @thaismassa...
+[03/11/2026 17:30:38] ⚠️ Erro ao processar @thaismassa: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:41] 
+[89/1049] A analisar @eybrasil...
+[03/11/2026 17:30:41] ⚠️ Erro ao processar @eybrasil: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:44] 
+[90/1049] A analisar @timemdaz...
+[03/11/2026 17:30:44] ⚠️ Erro ao processar @timemdaz: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:47] 
+[91/1049] A analisar @theorocha...
+[03/11/2026 17:30:47] ⚠️ Erro ao processar @theorocha: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:51] 
+[92/1049] A analisar @sgodenot...
+[03/11/2026 17:30:51] ⚠️ Erro ao processar @sgodenot: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:55] 
+[93/1049] A analisar @cherryrar...
+[03/11/2026 17:30:55] ⚠️ Erro ao processar @cherryrar: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:30:57] 
+[94/1049] A analisar @luannaguiar...
+[03/11/2026 17:30:57] ⚠️ Erro ao processar @luannaguiar: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:01] 
+[95/1049] A analisar @brunatavares...
+[03/11/2026 17:31:01] ⚠️ Erro ao processar @brunatavares: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:04] 
+[96/1049] A analisar @mckekel...
+[03/11/2026 17:31:04] ⚠️ Erro ao processar @mckekel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:08] 
+[97/1049] A analisar @anacontti50mais...
+[03/11/2026 17:31:08] ⚠️ Erro ao processar @anacontti50mais: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:11] 
+[98/1049] A analisar @lucasbley...
+[03/11/2026 17:31:11] ⚠️ Erro ao processar @lucasbley: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:14] 
+[99/1049] A analisar @vult...
+[03/11/2026 17:31:14] ⚠️ Erro ao processar @vult: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:17] 
+[100/1049] A analisar @manucaroline...
+[03/11/2026 17:31:17] ⚠️ Erro ao processar @manucaroline: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:21] 
+[101/1049] A analisar @b3yondbr...
+[03/11/2026 17:31:21] ⚠️ Erro ao processar @b3yondbr: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:24] 
+[102/1049] A analisar @morganasantanaoficial...
+[03/11/2026 17:31:24] ⚠️ Erro ao processar @morganasantanaoficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:26] 
+[103/1049] A analisar @aruanfelix...
+[03/11/2026 17:31:26] ⚠️ Erro ao processar @aruanfelix: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:30] 
+[104/1049] A analisar @gabemaru...
+[03/11/2026 17:31:30] ⚠️ Erro ao processar @gabemaru: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:33] 
+[105/1049] ⏭️ @lauradaniela.ts já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:31:33] 
+[106/1049] A analisar @leticiaescariao...
+[03/11/2026 17:31:33] ⚠️ Erro ao processar @leticiaescariao: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:37] 
+[107/1049] A analisar @pabllovittar...
+[03/11/2026 17:31:37] ⚠️ Erro ao processar @pabllovittar: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:40] 
+[108/1049] A analisar @byevalima...
+[03/11/2026 17:31:40] ⚠️ Erro ao processar @byevalima: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:43] 
+[109/1049] A analisar @andreiaaraujointeriores...
+[03/11/2026 17:31:43] ⚠️ Erro ao processar @andreiaaraujointeriores: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:46] 
+[110/1049] A analisar @itgirlcriativa...
+[03/11/2026 17:31:46] ⚠️ Erro ao processar @itgirlcriativa: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:49] 
+[111/1049] A analisar @cohengabs...
+[03/11/2026 17:31:49] ⚠️ Erro ao processar @cohengabs: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:52] 
+[112/1049] A analisar @federicodevito...
+[03/11/2026 17:31:52] ⚠️ Erro ao processar @federicodevito: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:56] 
+[113/1049] A analisar @ananda...
+[03/11/2026 17:31:56] ⚠️ Erro ao processar @ananda: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:31:59] 
+[114/1049] A analisar @terragora...
+[03/11/2026 17:31:59] ⚠️ Erro ao processar @terragora: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:01] 
+[115/1049] A analisar @eusoumarcospaulo...
+[03/11/2026 17:32:01] ⚠️ Erro ao processar @eusoumarcospaulo: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:03] 
+[116/1049] A analisar @jhulyvaz...
+[03/11/2026 17:32:03] ⚠️ Erro ao processar @jhulyvaz: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:06] 
+[117/1049] A analisar @tatiidias...
+[03/11/2026 17:32:06] ⚠️ Erro ao processar @tatiidias: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:09] 
+[118/1049] A analisar @pyonglee...
+[03/11/2026 17:32:09] ⚠️ Erro ao processar @pyonglee: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:13] 
+[119/1049] A analisar @carlarocha.oficial...
+[03/11/2026 17:32:13] ⚠️ Erro ao processar @carlarocha.oficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:15] 
+[120/1049] A analisar @threads...
+[03/11/2026 17:32:15] ⚠️ Erro ao processar @threads: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:18] 
+[121/1049] A analisar @biancaalencaroficial...
+[03/11/2026 17:32:18] ⚠️ Erro ao processar @biancaalencaroficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:22] 
+[122/1049] A analisar @mariafernandasalazar__...
+[03/11/2026 17:32:22] ⚠️ Erro ao processar @mariafernandasalazar__: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:25] 
+[123/1049] A analisar @francinyehlke...
+[03/11/2026 17:32:25] ⚠️ Erro ao processar @francinyehlke: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:29] 
+[124/1049] A analisar @flavia_viana...
+[03/11/2026 17:32:29] ⚠️ Erro ao processar @flavia_viana: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:32] 
+[125/1049] ⏭️ @tabataromeroo já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:32:32] 
+[126/1049] A analisar @itchallo...
+[03/11/2026 17:32:32] ⚠️ Erro ao processar @itchallo: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:34] 
+[127/1049] A analisar @_pequenalo...
+[03/11/2026 17:32:34] ⚠️ Erro ao processar @_pequenalo: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:37] 
+[128/1049] A analisar @kibum.png...
+[03/11/2026 17:32:40] ⚠️ Erro ao processar @kibum.png: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:44] 
+[129/1049] A analisar @kikofranco...
+[03/11/2026 17:32:44] ⚠️ Erro ao processar @kikofranco: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:47] 
+[130/1049] A analisar @raul...
+[03/11/2026 17:32:47] ⚠️ Erro ao processar @raul: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:50] 
+[131/1049] A analisar @joaokepler...
+[03/11/2026 17:32:50] ⚠️ Erro ao processar @joaokepler: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:53] 
+[132/1049] A analisar @kevinho...
+[03/11/2026 17:32:53] ⚠️ Erro ao processar @kevinho: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:32:57] 
+[133/1049] A analisar @felipeneto...
+[03/11/2026 17:32:57] ⚠️ Erro ao processar @felipeneto: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:01] 
+[134/1049] A analisar @luiscoppini...
+[03/11/2026 17:33:01] ⚠️ Erro ao processar @luiscoppini: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:04] 
+[135/1049] A analisar @gabrieleam...
+[03/11/2026 17:33:04] ⚠️ Erro ao processar @gabrieleam: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:08] 
+[136/1049] A analisar @rafaelportugal...
+[03/11/2026 17:33:08] ⚠️ Erro ao processar @rafaelportugal: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:10] 
+[137/1049] A analisar @larasantana...
+[03/11/2026 17:33:10] ⚠️ Erro ao processar @larasantana: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:13] 
+[138/1049] A analisar @99brasil...
+[03/11/2026 17:33:13] ⚠️ Erro ao processar @99brasil: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:17] 
+[139/1049] A analisar @olucascoelho...
+[03/11/2026 17:33:17] ⚠️ Erro ao processar @olucascoelho: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:20] 
+[140/1049] A analisar @eugabrielaluz...
+[03/11/2026 17:33:20] ⚠️ Erro ao processar @eugabrielaluz: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:23] 
+[141/1049] ⏭️ @gabidepretas já consta na planilha/histórico. A ignorar...
+[03/11/2026 17:33:23] 
+[142/1049] A analisar @cvc.sp.vilazelina...
+[03/11/2026 17:33:23] ⚠️ Erro ao processar @cvc.sp.vilazelina: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:25] 
+[143/1049] A analisar @ovomaltinebrasil...
+[03/11/2026 17:33:25] ⚠️ Erro ao processar @ovomaltinebrasil: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:27] 
+[144/1049] A analisar @ludmillapontocom...
+[03/11/2026 17:33:27] ⚠️ Erro ao processar @ludmillapontocom: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:30] 
+[145/1049] A analisar @materialhunter.design...
+[03/11/2026 17:33:30] ⚠️ Erro ao processar @materialhunter.design: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:33] 
+[146/1049] A analisar @majumazalli...
+[03/11/2026 17:33:33] ⚠️ Erro ao processar @majumazalli: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:36] 
+[147/1049] A analisar @afya.educacaomedica...
+[03/11/2026 17:33:36] ⚠️ Erro ao processar @afya.educacaomedica: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:40] 
+[148/1049] A analisar @renaissancesaopaulo...
+[03/11/2026 17:33:40] ⚠️ Erro ao processar @renaissancesaopaulo: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:43] 
+[149/1049] A analisar @o_yanfabian...
+[03/11/2026 17:33:43] ⚠️ Erro ao processar @o_yanfabian: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:45] 
+[150/1049] A analisar @naturaloneoficial...
+[03/11/2026 17:33:45] ⚠️ Erro ao processar @naturaloneoficial: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:48] 
+[151/1049] A analisar @leofeck1...
+[03/11/2026 17:33:48] ⚠️ Erro ao processar @leofeck1: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:51] 
+[152/1049] A analisar @dbatevolta...
+[03/11/2026 17:33:51] ⚠️ Erro ao processar @dbatevolta: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:53] 
+[153/1049] A analisar @gustavo_llobo...
+[03/11/2026 17:33:53] ⚠️ Erro ao processar @gustavo_llobo: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
+[03/11/2026 17:33:56] 
+[154/1049] A analisar @amundopictures...
+[03/11/2026 17:33:56] ⚠️ Erro ao processar @amundopictures: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff76cfcbe65]
+	(No symbol) [0x7ff76ced35f0]
+	(No symbol) [0x7ff76d2c1dad]
+	(No symbol) [0x7ff76cd5b753]
+	(No symbol) [0x7ff76cd6d972]
+	(No symbol) [0x7ff76cd6b813]
+	(No symbol) [0x7ff76cd6b37c]
+	(No symbol) [0x7ff76cd2d64b]
+	(No symbol) [0x7ff76cd2d822]
+	(No symbol) [0x7ff76cd2da35]
+	(No symbol) [0x7ff76d445af1]
+	(No symbol) [0x7ff76d4667f7]
+	(No symbol) [0x7ff76d45ce20]
+	(No symbol) [0x7ff76d0eff8e]
+	(No symbol) [0x7ff76cee2865]
+	(No symbol) [0x7ff76d4fc483]
+	(No symbol) [0x7ff76cd2c6b4]
+	(No symbol) [0x7ff76d4a94af]
+	(No symbol) [0x7ffcfa657124]
+	(No symbol) [0x7ffcfb5bcc91]
+
